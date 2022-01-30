@@ -1,0 +1,3 @@
+[submodule "nixie-clock"]
+	path = nixie-clock
+	url = https://github.com/microfarad-de/nixie-clock.git
